@@ -6,11 +6,11 @@ This module will output a route53 DNS name that should be used as a target to ro
 
 The module is language agnostic, provided AWS Lambda has the runtime, any application should be able to be deployed.
 
-For a list of assumptions and dependencies please see ...
+For a list of assumptions and dependencies please see https://github.com/apj0nes/rails-example#assumptions
 
 ## Usage
 
-An example repository can be seen here ...
+An example repository consuming the module can be seen here https://github.com/apj0nes/rails-example
 
 ## Inputs
 
